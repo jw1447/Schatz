@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Schrift';
+    src: url('MeineSchriftart.woff2') format('ttf'),
+}
+
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
