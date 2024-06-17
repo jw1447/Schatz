@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Schrift';
-    src: url('AutumnInNovember.ttf') format('truetype'),
+    src: url('DancingScript.ttf') format('truetype'),
 }
 
 body {
@@ -14,6 +14,7 @@ h1 {
 h2 {
     text-align: center;
 }
+
 p {
     text-align: center;
 }
