@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Schrift';
-    src: url('AutumnInNovember.ttf') format('ttf'),
+    src: url('AutumnInNovember.ttf') format('truetype'),
 }
 
 body {
-    font-family: Schrift;
+    font-family: Schrift
 }
 
 
